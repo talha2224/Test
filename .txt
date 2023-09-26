@@ -1,0 +1,8 @@
+Task: 
+
+Create a dashboard layout with an option to import .csv file of student record. Upload .csv to firebase database and map the student table fields with it. Perform edit and delete crud as well. 
+
+Submission: 
+1. Github link
+2. Vercel link
+3. .csv file
